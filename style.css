@@ -1,0 +1,9 @@
+#carousel-img{
+    width: 80vw;
+    height: 45vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
